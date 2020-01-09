@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "116109984084",
+    "firebase_url": "https://rentalmobil-6e96f.firebaseio.com",
+    "project_id": "rentalmobil-6e96f",
+    "storage_bucket": "rentalmobil-6e96f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116109984084:android:cfd113bf8c562ad03088c1",
+        "android_client_info": {
+          "package_name": "com.android.rentalmobil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116109984084-i3cgi6lhkv72khb06rernlv91c88b5rf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.rentalmobil",
+            "certificate_hash": "30f31c92f4e7d9753163957a0e6ec33cb7044277"
+          }
+        },
+        {
+          "client_id": "116109984084-jfqe9ggoodjq5ledqbcs1p25dh003qau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAZyfY57deDZPcJXSy3G1kIeCmzJFxT88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116109984084-jfqe9ggoodjq5ledqbcs1p25dh003qau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

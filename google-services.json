@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "259188793203",
+    "firebase_url": "https://rentalan-ce360.firebaseio.com",
+    "project_id": "rentalan-ce360",
+    "storage_bucket": "rentalan-ce360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259188793203:android:ca90574fded931f617af06",
+        "android_client_info": {
+          "package_name": "com.example.rentalan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259188793203-uddvjljsrlpo1ll0qkm69jo8a43c2ukh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ5PQqPIX242tXNDgTnfRT-MlRMDpvQ5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259188793203-uddvjljsrlpo1ll0qkm69jo8a43c2ukh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
